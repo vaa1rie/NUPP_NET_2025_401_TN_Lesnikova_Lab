@@ -19,8 +19,18 @@ namespace Transport.Infrastructure
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             // TPT inheritance
-            modelBuilder.Entity<Vehicle>().ToTable("Vehicles");
-            modelBuilder.Entity<Bus>().ToTable("Buses");
+            modelBuilder.Entity<Vehicle>()
+                .ToTable("Vehicles")
+                .UseTptMappingStrategy();
+
+            modelBuilder.Entity<Bus>()
+                .ToTable("Buses");
+
+            modelBuilder.Entity<Tram>()
+                .ToTable("Trams");
+
+            modelBuilder.Entity<Trolleybus>()
+                .ToTable("Trolleybuses");
 
             // One-to-One: Vehicle -> TechnicalPassport
             modelBuilder.Entity<Vehicle>()

@@ -3,9 +3,8 @@ using System.Collections.Generic;
 
 namespace Transport.Infrastructure.Models
 {
-    public abstract class Vehicle
+    public abstract class Vehicle : BaseEntity
     {
-        public int Id { get; set; }
         public string Model { get; set; }
         public int Year { get; set; }
 
