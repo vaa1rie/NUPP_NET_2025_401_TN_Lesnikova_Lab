@@ -1,0 +1,15 @@
+E:\.Univer\For Kisa\с#\NUPP_NET_2025_401_TN_Lesnikova_Lab\lab5\Transport.Infrastructure\bin\Debug\net9.0\Transport.Infrastructure.deps.json
+E:\.Univer\For Kisa\с#\NUPP_NET_2025_401_TN_Lesnikova_Lab\lab5\Transport.Infrastructure\bin\Debug\net9.0\Transport.Infrastructure.runtimeconfig.json
+E:\.Univer\For Kisa\с#\NUPP_NET_2025_401_TN_Lesnikova_Lab\lab5\Transport.Infrastructure\bin\Debug\net9.0\Transport.Infrastructure.dll
+E:\.Univer\For Kisa\с#\NUPP_NET_2025_401_TN_Lesnikova_Lab\lab5\Transport.Infrastructure\bin\Debug\net9.0\Transport.Infrastructure.pdb
+E:\.Univer\For Kisa\с#\NUPP_NET_2025_401_TN_Lesnikova_Lab\lab5\Transport.Infrastructure\obj\Debug\net9.0\Transport.Infrastructure.csproj.AssemblyReference.cache
+E:\.Univer\For Kisa\с#\NUPP_NET_2025_401_TN_Lesnikova_Lab\lab5\Transport.Infrastructure\obj\Debug\net9.0\Transport.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Univer\For Kisa\с#\NUPP_NET_2025_401_TN_Lesnikova_Lab\lab5\Transport.Infrastructure\obj\Debug\net9.0\Transport.Infrastructure.AssemblyInfoInputs.cache
+E:\.Univer\For Kisa\с#\NUPP_NET_2025_401_TN_Lesnikova_Lab\lab5\Transport.Infrastructure\obj\Debug\net9.0\Transport.Infrastructure.AssemblyInfo.cs
+E:\.Univer\For Kisa\с#\NUPP_NET_2025_401_TN_Lesnikova_Lab\lab5\Transport.Infrastructure\obj\Debug\net9.0\Transport.Infrastructure.csproj.CoreCompileInputs.cache
+E:\.Univer\For Kisa\с#\NUPP_NET_2025_401_TN_Lesnikova_Lab\lab5\Transport.Infrastructure\obj\Debug\net9.0\Transport.Infrastructure.sourcelink.json
+E:\.Univer\For Kisa\с#\NUPP_NET_2025_401_TN_Lesnikova_Lab\lab5\Transport.Infrastructure\obj\Debug\net9.0\Transport.Infrastructure.dll
+E:\.Univer\For Kisa\с#\NUPP_NET_2025_401_TN_Lesnikova_Lab\lab5\Transport.Infrastructure\obj\Debug\net9.0\refint\Transport.Infrastructure.dll
+E:\.Univer\For Kisa\с#\NUPP_NET_2025_401_TN_Lesnikova_Lab\lab5\Transport.Infrastructure\obj\Debug\net9.0\Transport.Infrastructure.pdb
+E:\.Univer\For Kisa\с#\NUPP_NET_2025_401_TN_Lesnikova_Lab\lab5\Transport.Infrastructure\obj\Debug\net9.0\Transport.Infrastructure.genruntimeconfig.cache
+E:\.Univer\For Kisa\с#\NUPP_NET_2025_401_TN_Lesnikova_Lab\lab5\Transport.Infrastructure\obj\Debug\net9.0\ref\Transport.Infrastructure.dll
